@@ -9,15 +9,23 @@ This project is a proof-of-concept to explore whether subtle thoracic motion abn
 ## 📦 Folder Structure
 
 CHIME-TB/
+
 ├── data/ # Raw and processed keypoint & feature data
 
 ├── videos/ # Chest motion videos (.mp4)
+
 ├── src/ # Source code for processing and modeling
+
 ├── models/ # Trained ML models
+
 ├── notebooks/ # Jupyter notebooks for exploration
+
 ├── results/ # Metrics, graphs, evaluation
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── .gitignore
 
 
