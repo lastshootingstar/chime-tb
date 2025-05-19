@@ -70,12 +70,21 @@ Output: TB or Non-TB (binary label)
 
 📜 License
 
-MIT License (or mention if for academic use only)
+Check License file
 
 🙏 Acknowledgements
 
 MediaPipe by Google
 
 OpenAI ChatGPT for technical and writing support
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lastshootingstar/chime-tb/main/logo.png" width="150"/>
+</p>
+
+# CHIME-TB
+
+![MIT License](https://img.shields.io/badge/license-MIT-blue)
+![Made with ❤️ in India](https://img.shields.io/badge/made%20with-%E2%9D%A4-ff69b4)
 
 
