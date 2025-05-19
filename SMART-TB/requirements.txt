@@ -1,0 +1,23 @@
+mkdir SMART-TB
+cd SMART-TB
+
+:: Create main folders
+mkdir data
+mkdir videos
+mkdir models
+mkdir notebooks
+mkdir results
+mkdir src
+
+:: Create root-level files
+echo.> README.md
+echo.> requirements.txt
+echo.> .gitignore
+
+:: Go into source folder and create scripts
+cd src
+echo.> extract_keypoints.py
+echo.> extract_features.py
+echo.> train_model.py
+echo.> predict.py
+echo.> evaluate.py
